@@ -1,6 +1,6 @@
 # CS50P Text RPG
 
-#### Video Demo: [VIDEO URL WILL BE ADDED HERE]
+#### Video Demo: https://youtu.be/D8O7wbiZvgc
 
 #### Description:
 
